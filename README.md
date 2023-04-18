@@ -20,13 +20,17 @@ Segue projeto Todo , tasks simples.
 
 1) Clone o projeto.
 
-2) Com projeto baixado favor executar na raiz do projeto:
+2) Rodar composer install:
 
-`npm install ou yarn install`
+`composer install`
 
-3) Rodar o projeto
+3) Rodar migration
 
-`yarn dev ou npm run dev`
+`php artisan migrate`
+
+4) Rodar migration
+
+`php artisan serve`
 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hyuri-miranda-cortes-69790666/) 
